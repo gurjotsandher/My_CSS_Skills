@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head> 
+  <meta charset="utf-8">
+ <title>kiwiszzzz</title>
+  <style> 
+    div { 
+    width:900px; 
+    height: 550px; 
+    background-color:#e1f9f9;   
+    margin: 270px 
+    }
+    p { 
+      font-family: serif;
+      font-size: 17px; 
+      position: relative;
+      top: 20px;
+      left: 40px;
+      line-height: 2; 
+    }
+    .coffee { 
+        border-radius: 100%;
+      width: 50%;
+      height:auto;
+      margin-left: 5%; 
+     margin-top: 4%; 
+      float: left; 
+      shape-outside: circle(); 
+       } 
+  </style>
+  <body>
+    <div>
+  <img src="Doc1.png" class="coffee">
+      <p> Espresso is coffee brewed by forcing a small <br>amount of nearly boiling water under <br> pressure through finely ground coffee<br>beans. </p>
+  <p> Espresso is generally thicker than <br> coffee brewed by other methods, has a higher concentration of suspended <br> and dissolved solids, and has crema <br> on top (a foam with creamy <br> consistency.)</p>
+    <p> Tamping down the coffee promotes the<br> water's even penetration of the grounds. This process produces an almost syrupy <br>beverage by extracting both solid and dissolved.</p>
+  </div>
+  </body>
+</head>
+</html>
